@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_EXAMPLE_CONSUME_API</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>S</LANGU>
+    <DESCRIPT>Example Consume API Json</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EXAMPLE_CONSUME_API</CLSNAME>
+     <CMPNAME>CREATE_EJECUTION</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Create Ejecution</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EXAMPLE_CONSUME_API</CLSNAME>
+     <CMPNAME>CREATE_JSON</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Crea JSON</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EXAMPLE_CONSUME_API</CLSNAME>
+     <CMPNAME>CREATE_MSG_INF</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Create Message 4 Log</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EXAMPLE_CONSUME_API</CLSNAME>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Get Data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EXAMPLE_CONSUME_API</CLSNAME>
+     <CMPNAME>SYNC_OBJECT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Syncronizar Objeto</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

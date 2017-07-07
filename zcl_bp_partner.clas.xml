@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_BP_PARTNER</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>S</LANGU>
+    <DESCRIPT>Consume API birthday partner</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BP_PARTNER</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BP_PARTNER</CLSNAME>
+     <CMPNAME>GV_YEARS_PARTNER</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Campo con longitud de 3 byte</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BP_PARTNER</CLSNAME>
+     <CMPNAME>MD_PARTNER</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Número de interlocutor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BP_PARTNER</CLSNAME>
+     <CMPNAME>MD_URL_API</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>URL para llamado a la API</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BP_PARTNER</CLSNAME>
+     <CMPNAME>MD_YEARS_PARTNER</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Número de años socio</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BP_PARTNER</CLSNAME>
+     <CMPNAME>UPDATE_BP</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Actualización Bussines Partner</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
